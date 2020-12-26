@@ -1,0 +1,153 @@
+/*Limpar formatações padrão */
+
+*{
+	margin:  0;
+	padding: 0;
+}
+
+
+/* ---------------Inicio das formatações no Body--------------*/
+body{		
+
+	font-size: 1em;		/*Adicionada fonte de 16pix padrão (1em) */	
+	font-family: helvetica, sans-serif;		/* formatado o estilo de letra */
+	background: #e6e6e6;		/*formatada uma cor de fundo para o body */
+}
+
+
+/* ---------------Inicio das formatações do layout--------------*/
+
+#Area-cabecalho {
+	background-color: #f7b600;  /* Adicionada uma cor de fundo ao Cabeçalho */
+	padding: 25px;				/*Formatado  espaçamento do Cabeçalho */
+	text-align: center;			/*Formatado texto no centro */
+}
+
+
+#Area-logo, #Area-Menu {		/*Formatado espaçamento da area logo e area menu */	
+	padding: 10px;				/* configura o espaçamento interno do texto */
+} 
+
+
+#Area-principal{
+	width: 920px;				/* Adicionada um tamanho fixo a area principal do site */
+	margin:  auto;				/* Adicionada margem de 0 para area superior e inferior e auto para laterais */
+	padding: 15px;				/* configura o espaçamento interno do texto */
+}
+
+
+#Area-postagens{
+	width: 660px;				/* Adicionada um tamanho fixo a area de postagens */
+	float: left;				/* posiciona a area de postagen a esquerda */
+}
+
+
+.postagem{
+	padding: 20px;				/* configura o espaçamento interno do texto */
+	margin-bottom: 20px;		/* formatado margem inferior  */
+	background: white;			/* adicionada cor de fundo */
+}
+
+
+#Menu-lateral{
+	width: 220px;				/* Adicionada um tamanho fixo ao menu-lateral */
+	float: right;				/* posiciona a area de postagen a direita */
+	background: white;			/* adicionada cor de fundo */
+	padding: 10px;				/* configura o espaçamento interno do texto */
+	margin-bottom: 20px;		/* formatado margem inferior  */
+
+}
+
+
+#rodapé{
+	clear: both;				/* remove o fluxo dos elementos flutuantes */
+	text-align: center;			/* posiciona o texto no centro */
+	padding: 15px;   			/* configura o espaçamento interno do texto */
+	background: #ccc;			/* adicionada cor de fundo */
+}
+
+
+/* ---------------Inicio das formatações no menu---------------*/
+
+a {
+	text-decoration: none;		/*retirado o sublinhado das palavras */	
+	color: orange;
+	padding: 8px 12px;			/*configurado cor e espaçamento interno dos parágrafos */
+}
+
+#Area-cabecalho a:link, 		/*configurando a cor do estado normal da palavra */
+								
+#Area-cabecalho a:visited{		/*configurando a cor de quando clica em cima da palavra */		
+	color: #fff;
+	padding: 8px 12px;			/*Colocado area cabecalho para restringir a configuração de cor e */		
+}
+
+#Area-cabecalho a:hover{		/*configurando a cor de quando passa o mouse em cima da palavra */	
+	color: #f7b600;
+	background: #fff;
+}
+
+
+
+/* -------------- Inicio das Formatações em Geral-----------*/
+
+h1{								/*configuração para os h1 do site */
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+
+h2{								/*configuração para os h2 do site */
+	color: #f7b600;
+}
+
+
+h3{								/*configuração para os h3 do site */
+	color: #565656;
+	background: #ccc;
+	padding: 5px;
+}
+
+
+.branco{						/* formatada a cor branca na palavra blog */
+
+	color: white;				
+}
+
+.datapostagem{					/* formatação do campo data de postagem  */
+	font-size: 0.8em;					/* formatado tamanho da letra  */
+	padding-bottom: 30px;				/* formatado espaçamento interno inferior  */
+	margin-bottom; margin-top: 10px;	/* formatado margem superior e inferior  */
+	display: block;						/* formatado o display de inline para block */
+}
+
+
+/*configuração para as imagens do site */
+
+.img01{						
+	width: 610px;					/* Adicionada um tamanho fixo a imagem */
+	border: red  3px solid;			/* Adicionada uma borda a imagem */
+}
+
+.img02{						
+	width: 610px;					/* Adicionada um tamanho fixo a imagem */
+	border: blue  3px solid;		/* Adicionada uma borda a imagem */
+}
+
+.img03{
+	width: 610px;					/* Adicionada um tamanho fixo a imagem */
+	border: yellow  3px solid;		/* Adicionada uma borda a imagem */
+}
+
+.img04{
+	width: 610px;					/* Adicionada um tamanho fixo a imagem */
+	border: green  3px solid;		/* Adicionada uma borda a imagem */
+}
+
+
+/*configuração para os paragrafos do site */
+.paragrafo{					
+	padding-top: 10px;				/* formatado espaçamento interno superior  */
+	text-align: justify;			/* justificado o texto */
+	}					
+	
