@@ -1,0 +1,45 @@
+body{	
+		background: #d2d2c1	url('imagens/fundo.png');	/*Nesse campo foi definida uma cor e uma imagen de fundo**/			
+		font: 16px Arial, Helvetica, sans-serif ;	/*Nesse campo foi definido tamanho da fonte e tipo de letra**/					
+}
+
+
+#principal{
+	width: 900px; /*Nesse campo foi definida largura da div principal**/
+}
+
+
+#Menu{
+	background:#c5c5b2; /*Aqui foi definida a cor de fundo do campo menu**/
+	padding: 18px;	/*esse campo aumenta o espaçamento interno do menu**/
+}
+
+
+#Conteúdo{
+	background: white;	/*Aqui foi definida a cor de fundo do campo Conteúdo**/
+	padding: 15px;		/*esse campo aumenta o espaçamento interno**/
+}
+
+
+a{		/*Nesse campo foi feita a formatação dos links**/
+	color: green;					/*cor das letras **/
+	text-decoration: none;			/*retirado o sublinhado das palavras **/
+	font-weight: bold;				/*Definida a fonte das palavras **/
+	padding: 5px;					/*aumentado o espaçamento interno**/
+}
+
+h1{		/*Nesse campo foi feita a formatação da tag h1**/
+	color: #828271;			/*cor das letras **/
+	font-size: 1.2em;		/*Definida a fonte das palavras, utilizado "em" pois se aumentar a fonte
+	 do body a fonte do h1 sera atualizada automaticamente**/
+}
+
+
+.centralizar{					/*Nesse campo foi feita uma class para centralizar o conteúdo/**/
+	text-align: center;
+}
+
+
+.img-campanhas{					/*Nesse campo foi feita uma class para colocar uma borda nas imagens /**/
+	border: 10px solid #c3c3a3;	/*respectivamente: tamanho, solido, cor  /**/
+}

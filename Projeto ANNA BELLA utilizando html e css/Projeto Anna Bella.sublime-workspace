@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"C",
+				"colspan\tAttr"
+			],
+			[
+				"im",
+				"imagens"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"i",
+				"Interesses"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"cor",
+				"cor-titulo"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/PROJETO ANNA BELLA/Projeto Anna Bella.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/PROJETO CSS/div-spam.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/PROJETO CSS/Classes_ids.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/PROJETO CSS/inline_style.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/Projeto final-html/Contato.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/Projeto final-html/Quem-somos.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/Projeto final-html/Home.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/Projeto final-html/index.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/formularios.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/definições de códigos.tx",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/tabelas.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/DESENVOLVIMENTO WEB COMPLETO/Projeto Aula/Primeiro Projeto/PRIMEIRO SITE .html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/Site/index.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/primeiro site html/index.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/teste.html",
+		"/C/Users/eduhd/OneDrive/Área de Trabalho/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Projeto Anna Bella.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
