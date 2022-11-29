@@ -1,4 +1,7 @@
 # Curso-de-desenvolvimento-web-completo
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=RED&style=for-the-badge)
+
 Nesse curso Foram desenvolvidos alguns projetos utilizando apenas html e CSS
 
 ## Desenvolvimento de uma página para campanha publicitaria
