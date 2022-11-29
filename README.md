@@ -9,3 +9,8 @@ Nesse curso Foram desenvolvidos alguns projetos utilizando apenas html e CSS
 
 ## Desenvolvimento de uma página de uma Universidade
 ![image](https://user-images.githubusercontent.com/37030387/204664617-737c3283-0161-4cec-be8c-88b1808302e9.png)
+
+
+# Autor
+
+ [<img src="https://avatars.githubusercontent.com/u/37030387?s=400&u=fcf5e6893710bee598bead4310834965df74a88a&v=4" width=115><br><sub>Eduardo dos Santos</sub>](https://github.com/Eduh06)
